@@ -1,0 +1,10 @@
+^C:\USERS\HOWARD\DESKTOP\GHOSTESCAPE\BUILD\CMAKEFILES\19E83A6CA22F4133343D2BE268E48847\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/Howard/Desktop/ghostEscape -BC:/Users/Howard/Desktop/ghostEscape/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/Howard/Desktop/ghostEscape/build/SDLShooter.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

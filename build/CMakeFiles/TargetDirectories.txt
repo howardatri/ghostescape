@@ -1,0 +1,3 @@
+C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/SDLShooter-Windows.dir
+C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/ZERO_CHECK.dir
