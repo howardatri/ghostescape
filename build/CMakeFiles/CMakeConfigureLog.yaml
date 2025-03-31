@@ -24,7 +24,7 @@ events:
       The output was:
       0
       适用于 .NET Framework MSBuild 版本 17.11.9+a69bbaaf5
-      生成启动时间为 2025/3/30 12:32:18。
+      生成启动时间为 2025/3/31 19:50:55。
       
       节点 1 上的项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\3.29.5-msvc4\\CompilerIdC\\CompilerIdC.vcxproj”(默认目标)。
       PrepareForBuild:
@@ -53,7 +53,7 @@ events:
           0 个警告
           0 个错误
       
-      已用时间 00:00:00.67
+      已用时间 00:00:00.52
       
       
       Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
@@ -79,7 +79,7 @@ events:
       The output was:
       0
       适用于 .NET Framework MSBuild 版本 17.11.9+a69bbaaf5
-      生成启动时间为 2025/3/30 12:32:19。
+      生成启动时间为 2025/3/31 19:50:56。
       
       节点 1 上的项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\3.29.5-msvc4\\CompilerIdCXX\\CompilerIdCXX.vcxproj”(默认目标)。
       PrepareForBuild:
@@ -108,7 +108,7 @@ events:
           0 个警告
           0 个错误
       
-      已用时间 00:00:00.50
+      已用时间 00:00:00.49
       
       
       Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
@@ -127,8 +127,8 @@ events:
     checks:
       - "Detecting C compiler ABI info"
     directories:
-      source: "C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-l3vf9b"
-      binary: "C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-l3vf9b"
+      source: "C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-obt30x"
+      binary: "C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-obt30x"
     cmakeVariables:
       CMAKE_C_FLAGS: "/DWIN32 /D_WINDOWS /W3"
       CMAKE_C_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -137,34 +137,34 @@ events:
       variable: "CMAKE_C_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-l3vf9b'
+        Change Dir: 'C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-obt30x'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_c6265.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5474f.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         适用于 .NET Framework MSBuild 版本 17.11.9+a69bbaaf5
-        生成启动时间为 2025/3/30 12:32:20。
+        生成启动时间为 2025/3/31 19:50:57。
         
-        节点 1 上的项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l3vf9b\\cmTC_c6265.vcxproj”(默认目标)。
+        节点 1 上的项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-obt30x\\cmTC_5474f.vcxproj”(默认目标)。
         PrepareForBuild:
-          正在创建目录“cmTC_c6265.dir\\Debug\\”。
+          正在创建目录“cmTC_5474f.dir\\Debug\\”。
           已启用结构化输出。编译器诊断的格式设置将反映错误层次结构。有关详细信息，请参阅 https://aka.ms/cpp/structured-output。
-          正在创建目录“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l3vf9b\\Debug\\”。
-          正在创建目录“cmTC_c6265.dir\\Debug\\cmTC_c6265.tlog\\”。
+          正在创建目录“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-obt30x\\Debug\\”。
+          正在创建目录“cmTC_5474f.dir\\Debug\\cmTC_5474f.tlog\\”。
         InitializeBuildStatus:
-          正在创建“cmTC_c6265.dir\\Debug\\cmTC_c6265.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-          正在对“cmTC_c6265.dir\\Debug\\cmTC_c6265.tlog\\unsuccessfulbuild”执行 Touch 任务。
+          正在创建“cmTC_5474f.dir\\Debug\\cmTC_5474f.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+          正在对“cmTC_5474f.dir\\Debug\\cmTC_5474f.tlog\\unsuccessfulbuild”执行 Touch 任务。
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c6265.dir\\Debug\\\\" /Fd"cmTC_c6265.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5474f.dir\\Debug\\\\" /Fd"cmTC_5474f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
           用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.41.34120 版
           版权所有(C) Microsoft Corporation。保留所有权利。
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_c6265.dir\\Debug\\\\" /Fd"cmTC_c6265.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_5474f.dir\\Debug\\\\" /Fd"cmTC_5474f.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TC /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCCompilerABI.c"
           CMakeCCompilerABI.c
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l3vf9b\\Debug\\cmTC_c6265.exe" /INCREMENTAL /ILK:"cmTC_c6265.dir\\Debug\\cmTC_c6265.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-l3vf9b/Debug/cmTC_c6265.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-l3vf9b/Debug/cmTC_c6265.lib" /MACHINE:X64  /machine:x64 cmTC_c6265.dir\\Debug\\CMakeCCompilerABI.obj
-          cmTC_c6265.vcxproj -> C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l3vf9b\\Debug\\cmTC_c6265.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-obt30x\\Debug\\cmTC_5474f.exe" /INCREMENTAL /ILK:"cmTC_5474f.dir\\Debug\\cmTC_5474f.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-obt30x/Debug/cmTC_5474f.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-obt30x/Debug/cmTC_5474f.lib" /MACHINE:X64  /machine:x64 cmTC_5474f.dir\\Debug\\CMakeCCompilerABI.obj
+          cmTC_5474f.vcxproj -> C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-obt30x\\Debug\\cmTC_5474f.exe
         FinalizeBuildStatus:
-          正在删除文件“cmTC_c6265.dir\\Debug\\cmTC_c6265.tlog\\unsuccessfulbuild”。
-          正在对“cmTC_c6265.dir\\Debug\\cmTC_c6265.tlog\\cmTC_c6265.lastbuildstate”执行 Touch 任务。
-        已完成生成项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-l3vf9b\\cmTC_c6265.vcxproj”(默认目标)的操作。
+          正在删除文件“cmTC_5474f.dir\\Debug\\cmTC_5474f.tlog\\unsuccessfulbuild”。
+          正在对“cmTC_5474f.dir\\Debug\\cmTC_5474f.tlog\\cmTC_5474f.lastbuildstate”执行 Touch 任务。
+        已完成生成项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-obt30x\\cmTC_5474f.vcxproj”(默认目标)的操作。
         
         已成功生成。
             0 个警告
@@ -210,8 +210,8 @@ events:
     checks:
       - "Detecting CXX compiler ABI info"
     directories:
-      source: "C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-kt644j"
-      binary: "C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-kt644j"
+      source: "C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-zs0pke"
+      binary: "C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-zs0pke"
     cmakeVariables:
       CMAKE_CXX_FLAGS: "/DWIN32 /D_WINDOWS /W3 /GR /EHsc"
       CMAKE_CXX_FLAGS_DEBUG: "/MDd /Zi /Ob0 /Od /RTC1"
@@ -221,40 +221,40 @@ events:
       variable: "CMAKE_CXX_ABI_COMPILED"
       cached: true
       stdout: |
-        Change Dir: 'C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-kt644j'
+        Change Dir: 'C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-zs0pke'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_81a99.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_5a39c.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         适用于 .NET Framework MSBuild 版本 17.11.9+a69bbaaf5
-        生成启动时间为 2025/3/30 12:32:20。
+        生成启动时间为 2025/3/31 19:50:58。
         
-        节点 1 上的项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kt644j\\cmTC_81a99.vcxproj”(默认目标)。
+        节点 1 上的项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zs0pke\\cmTC_5a39c.vcxproj”(默认目标)。
         PrepareForBuild:
-          正在创建目录“cmTC_81a99.dir\\Debug\\”。
+          正在创建目录“cmTC_5a39c.dir\\Debug\\”。
           已启用结构化输出。编译器诊断的格式设置将反映错误层次结构。有关详细信息，请参阅 https://aka.ms/cpp/structured-output。
-          正在创建目录“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kt644j\\Debug\\”。
-          正在创建目录“cmTC_81a99.dir\\Debug\\cmTC_81a99.tlog\\”。
+          正在创建目录“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zs0pke\\Debug\\”。
+          正在创建目录“cmTC_5a39c.dir\\Debug\\cmTC_5a39c.tlog\\”。
         InitializeBuildStatus:
-          正在创建“cmTC_81a99.dir\\Debug\\cmTC_81a99.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-          正在对“cmTC_81a99.dir\\Debug\\cmTC_81a99.tlog\\unsuccessfulbuild”执行 Touch 任务。
+          正在创建“cmTC_5a39c.dir\\Debug\\cmTC_5a39c.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+          正在对“cmTC_5a39c.dir\\Debug\\cmTC_5a39c.tlog\\unsuccessfulbuild”执行 Touch 任务。
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_81a99.dir\\Debug\\\\" /Fd"cmTC_81a99.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_5a39c.dir\\Debug\\\\" /Fd"cmTC_5a39c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
           用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.41.34120 版
           版权所有(C) Microsoft Corporation。保留所有权利。
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_81a99.dir\\Debug\\\\" /Fd"cmTC_81a99.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTC_5a39c.dir\\Debug\\\\" /Fd"cmTC_5a39c.dir\\Debug\\vc143.pdb" /external:W3 /Gd /TP /errorReport:queue "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Common7\\IDE\\CommonExtensions\\Microsoft\\CMake\\CMake\\share\\cmake-3.29\\Modules\\CMakeCXXCompilerABI.cpp"
           CMakeCXXCompilerABI.cpp
         Link:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kt644j\\Debug\\cmTC_81a99.exe" /INCREMENTAL /ILK:"cmTC_81a99.dir\\Debug\\cmTC_81a99.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-kt644j/Debug/cmTC_81a99.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-kt644j/Debug/cmTC_81a99.lib" /MACHINE:X64  /machine:x64 cmTC_81a99.dir\\Debug\\CMakeCXXCompilerABI.obj
-          cmTC_81a99.vcxproj -> C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kt644j\\Debug\\cmTC_81a99.exe
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\link.exe /ERRORREPORT:QUEUE /OUT:"C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zs0pke\\Debug\\cmTC_5a39c.exe" /INCREMENTAL /ILK:"cmTC_5a39c.dir\\Debug\\cmTC_5a39c.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-zs0pke/Debug/cmTC_5a39c.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeScratch/TryCompile-zs0pke/Debug/cmTC_5a39c.lib" /MACHINE:X64  /machine:x64 cmTC_5a39c.dir\\Debug\\CMakeCXXCompilerABI.obj
+          cmTC_5a39c.vcxproj -> C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zs0pke\\Debug\\cmTC_5a39c.exe
         FinalizeBuildStatus:
-          正在删除文件“cmTC_81a99.dir\\Debug\\cmTC_81a99.tlog\\unsuccessfulbuild”。
-          正在对“cmTC_81a99.dir\\Debug\\cmTC_81a99.tlog\\cmTC_81a99.lastbuildstate”执行 Touch 任务。
-        已完成生成项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-kt644j\\cmTC_81a99.vcxproj”(默认目标)的操作。
+          正在删除文件“cmTC_5a39c.dir\\Debug\\cmTC_5a39c.tlog\\unsuccessfulbuild”。
+          正在对“cmTC_5a39c.dir\\Debug\\cmTC_5a39c.tlog\\cmTC_5a39c.lastbuildstate”执行 Touch 任务。
+        已完成生成项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeScratch\\TryCompile-zs0pke\\cmTC_5a39c.vcxproj”(默认目标)的操作。
         
         已成功生成。
             0 个警告
             0 个错误
         
-        已用时间 00:00:00.45
+        已用时间 00:00:00.43
         
       exitCode: 0
   -
@@ -304,38 +304,38 @@ events:
       stdout: |
         Change Dir: 'C:/Users/Howard/Desktop/ghostEscape/build/CMakeFiles/CMakeTmp/SDL_detect_arch/CMakeFiles/CMakeTmp'
         
-        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_a6636.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
+        Run Build Command(s): "C:/Program Files/Microsoft Visual Studio/2022/Community/MSBuild/Current/Bin/amd64/MSBuild.exe" cmTC_48114.vcxproj /p:Configuration=Debug /p:Platform=x64 /p:VisualStudioVersion=17.0 /v:n
         适用于 .NET Framework MSBuild 版本 17.11.9+a69bbaaf5
-        生成启动时间为 2025/3/30 12:32:21。
+        生成启动时间为 2025/3/31 19:50:59。
         
-        节点 1 上的项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\cmTC_a6636.vcxproj”(默认目标)。
+        节点 1 上的项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\cmTC_48114.vcxproj”(默认目标)。
         PrepareForBuild:
-          正在创建目录“cmTC_a6636.dir\\Debug\\”。
+          正在创建目录“cmTC_48114.dir\\Debug\\”。
           已启用结构化输出。编译器诊断的格式设置将反映错误层次结构。有关详细信息，请参阅 https://aka.ms/cpp/structured-output。
           正在创建目录“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\”。
-          正在创建目录“cmTC_a6636.dir\\Debug\\cmTC_a6636.tlog\\”。
+          正在创建目录“cmTC_48114.dir\\Debug\\cmTC_48114.tlog\\”。
         InitializeBuildStatus:
-          正在创建“cmTC_a6636.dir\\Debug\\cmTC_a6636.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
-          正在对“cmTC_a6636.dir\\Debug\\cmTC_a6636.tlog\\unsuccessfulbuild”执行 Touch 任务。
+          正在创建“cmTC_48114.dir\\Debug\\cmTC_48114.tlog\\unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+          正在对“cmTC_48114.dir\\Debug\\cmTC_48114.tlog\\unsuccessfulbuild”执行 Touch 任务。
         ClCompile:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a6636.dir\\Debug\\\\" /Fd"C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_a6636.pdb" /external:W3 /Gd /TC /errorReport:queue C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch.c
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\CL.exe /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_48114.dir\\Debug\\\\" /Fd"C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_48114.pdb" /external:W3 /Gd /TC /errorReport:queue C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch.c
           用于 x64 的 Microsoft (R) C/C++ 优化编译器 19.41.34120 版
           版权所有(C) Microsoft Corporation。保留所有权利。
-          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_a6636.dir\\Debug\\\\" /Fd"C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_a6636.pdb" /external:W3 /Gd /TC /errorReport:queue C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch.c
+          cl /c /Zi /W3 /WX- /diagnostics:column /Od /Ob0 /D _MBCS /D WIN32 /D _WINDOWS /D "CMAKE_INTDIR=\\"Debug\\"" /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTC_48114.dir\\Debug\\\\" /Fd"C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_48114.pdb" /external:W3 /Gd /TC /errorReport:queue C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch.c
           SDL_detect_arch.c
         Lib:
-          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\Lib.exe /OUT:"C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_a6636.lib" /NOLOGO /MACHINE:X64  /machine:x64 cmTC_a6636.dir\\Debug\\SDL_detect_arch.obj
-          cmTC_a6636.vcxproj -> C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_a6636.lib
+          C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\bin\\HostX64\\x64\\Lib.exe /OUT:"C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_48114.lib" /NOLOGO /MACHINE:X64  /machine:x64 cmTC_48114.dir\\Debug\\SDL_detect_arch.obj
+          cmTC_48114.vcxproj -> C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\Debug\\cmTC_48114.lib
         FinalizeBuildStatus:
-          正在删除文件“cmTC_a6636.dir\\Debug\\cmTC_a6636.tlog\\unsuccessfulbuild”。
-          正在对“cmTC_a6636.dir\\Debug\\cmTC_a6636.tlog\\cmTC_a6636.lastbuildstate”执行 Touch 任务。
-        已完成生成项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\cmTC_a6636.vcxproj”(默认目标)的操作。
+          正在删除文件“cmTC_48114.dir\\Debug\\cmTC_48114.tlog\\unsuccessfulbuild”。
+          正在对“cmTC_48114.dir\\Debug\\cmTC_48114.tlog\\cmTC_48114.lastbuildstate”执行 Touch 任务。
+        已完成生成项目“C:\\Users\\Howard\\Desktop\\ghostEscape\\build\\CMakeFiles\\CMakeTmp\\SDL_detect_arch\\CMakeFiles\\CMakeTmp\\cmTC_48114.vcxproj”(默认目标)的操作。
         
         已成功生成。
             0 个警告
             0 个错误
         
-        已用时间 00:00:00.38
+        已用时间 00:00:00.35
         
       exitCode: 0
 ...

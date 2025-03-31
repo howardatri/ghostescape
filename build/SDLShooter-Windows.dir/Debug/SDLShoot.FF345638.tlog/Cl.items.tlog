@@ -7,6 +7,8 @@ C:\Users\Howard\Desktop\ghostEscape\src\core\scene.cpp;C:\Users\Howard\Desktop\g
 C:\Users\Howard\Desktop\ghostEscape\src\core\actor.cpp;C:\Users\Howard\Desktop\ghostEscape\build\SDLShooter-Windows.dir\Debug\actor.obj
 C:\Users\Howard\Desktop\ghostEscape\src\affiliate\sprite.cpp;C:\Users\Howard\Desktop\ghostEscape\build\SDLShooter-Windows.dir\Debug\sprite.obj
 C:\Users\Howard\Desktop\ghostEscape\src\affiliate\sprite_anim.cpp;C:\Users\Howard\Desktop\ghostEscape\build\SDLShooter-Windows.dir\Debug\sprite_anim.obj
+C:\Users\Howard\Desktop\ghostEscape\src\affiliate\collider.cpp;C:\Users\Howard\Desktop\ghostEscape\build\SDLShooter-Windows.dir\Debug\collider.obj
+C:\Users\Howard\Desktop\ghostEscape\src\raw\stats.cpp;C:\Users\Howard\Desktop\ghostEscape\build\SDLShooter-Windows.dir\Debug\stats.obj
 C:\Users\Howard\Desktop\ghostEscape\src\player.cpp;C:\Users\Howard\Desktop\ghostEscape\build\SDLShooter-Windows.dir\Debug\player.obj
 C:\Users\Howard\Desktop\ghostEscape\src\enemy.cpp;C:\Users\Howard\Desktop\ghostEscape\build\SDLShooter-Windows.dir\Debug\enemy.obj
 C:\Users\Howard\Desktop\ghostEscape\src\main.cpp;C:\Users\Howard\Desktop\ghostEscape\build\SDLShooter-Windows.dir\Debug\main.obj

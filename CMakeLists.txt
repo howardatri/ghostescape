@@ -37,6 +37,8 @@ add_executable(${TARGET}
                 src/core/actor.cpp
                 src/affiliate/sprite.cpp
                 src/affiliate/sprite_anim.cpp
+                src/affiliate/collider.cpp
+                src/raw/stats.cpp
                 src/player.cpp
                 src/enemy.cpp
                 src/main.cpp

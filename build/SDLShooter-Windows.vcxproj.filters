@@ -28,6 +28,12 @@
     <ClCompile Include="C:\Users\Howard\Desktop\ghostEscape\src\affiliate\sprite_anim.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="C:\Users\Howard\Desktop\ghostEscape\src\affiliate\collider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Howard\Desktop\ghostEscape\src\raw\stats.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="C:\Users\Howard\Desktop\ghostEscape\src\player.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
